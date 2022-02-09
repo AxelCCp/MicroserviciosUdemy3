@@ -1,0 +1,22 @@
+package com.springboot.app.gateway.security;
+
+import org.springframework.security.authentication.ReactiveAuthenticationManager;
+import org.springframework.security.core.Authentication;
+import org.springframework.stereotype.Component;
+
+import reactor.core.publisher.Mono;
+
+//CLASE113: CLASE DE UN ADMINISTRADOR DE AUTENTICACIÓN
+//1.1.-EL MÉTODO DEVLEVE UN FLUJO Y CONTIENE UN ELEMENTO "Authentication", Y RECIVE POR PARÁMENTRO RECIBE OTRO Authentication QUE DEBE CONTENER EL TOKEN. Y ES ESTE Authentication QUE CONTIENE AL TOKEN, EL QUE SE PASA POR EL FILTRO. 
+
+@Component
+public class AuthenticationManagerJwt implements ReactiveAuthenticationManager{
+
+	//1.1
+	@Override
+	public Mono<Authentication> authenticate(Authentication authentication) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

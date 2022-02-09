@@ -1,0 +1,5 @@
+package com.springboot.app.usuarios;
+
+public class RepositoryConfig {
+
+}

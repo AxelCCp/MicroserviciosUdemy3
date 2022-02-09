@@ -1,0 +1,31 @@
+package com.springboot.app.gateway.security;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.security.config.annotation.web.reactive.EnableWebFluxSecurity;
+import org.springframework.security.config.web.server.ServerHttpSecurity;
+import org.springframework.security.web.server.SecurityWebFilterChain;
+
+//CLASE110: 
+
+//@EnableWebfluxSecurity: PARA HABILITAR LA SEGURIDAD EN WEBFLUX.
+//ESTA CLASE DE CONFIGURACIÓN NO IMPLEMENTA NADA, SOLO TENDRÁ UN MÉTODO BEAN QUE REGISTRA UN COMPONENTE DE TIPO SECURITY WEB FILTER CHAIN, PARA CONFIGURAR TODO LO QUE ES SEGURIDAD.
+
+//1.-CONFIGURACIÓN DE LA SEGURIDAD DE LAS RUTAS. http.authorizeExchange().anyExchange().authenticated()... : SE PARTE CON TODO PROTEGIDO.
+	//1.1.-.csrf().disable(): SE DESHABILITA EL TOKEN PARA VISTA DE FORMULARIOS CON HTML.
+
+@EnableWebFluxSecurity
+public class SpringSecurityConfig {
+
+	@Bean
+	public SecurityWebFilterChain configure(ServerHttpSecurity http) {
+		
+		//1
+		return http.authorizeExchange()
+				.anyExchange().authenticated()
+				.and()
+				//1.1
+				.csrf().disable()
+				.build();
+	}
+	
+}

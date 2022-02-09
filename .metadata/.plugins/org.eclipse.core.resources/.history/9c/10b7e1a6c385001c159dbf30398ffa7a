@@ -1,0 +1,11 @@
+package com.springboot.app.usuarios.commons;
+
+
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootServicioUsuariosCommonsApplication {
+
+	//CLASE88: SE QUITÓ EL MAIN.
+
+}

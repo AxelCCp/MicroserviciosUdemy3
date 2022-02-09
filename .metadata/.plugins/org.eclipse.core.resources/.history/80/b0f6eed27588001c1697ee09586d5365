@@ -1,0 +1,33 @@
+package com.springboot.app.zuul.oauth;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.security.config.annotation.web.builders.HttpSecurity;
+import org.springframework.security.oauth2.config.annotation.web.configuration.EnableResourceServer;
+import org.springframework.security.oauth2.config.annotation.web.configuration.ResourceServerConfigurerAdapter;
+import org.springframework.security.oauth2.config.annotation.web.configurers.ResourceServerSecurityConfigurer;
+
+//CLASE98: ESTE ES EL SERVIDOR DE RECURSOS QUE SE CONFIGURA EN ZUUL
+
+//configure(HttpSecurity http): MÉTODO PARA PROTEGER RUTAS Y ENDPOINTS.
+//configure(ResourceServerSecurityConfigurer resources): MÉTODO PARA CONFIGURAR EL TOKEN.
+
+@Configuration
+@EnableResourceServer
+public class ResourceServerConfig extends ResourceServerConfigurerAdapter  {
+
+	@Override
+	public void configure(ResourceServerSecurityConfigurer resources) throws Exception {
+		// TODO Auto-generated method stub
+		super.configure(resources);
+	}
+
+	@Override
+	public void configure(HttpSecurity http) throws Exception {
+		// TODO Auto-generated method stub
+		super.configure(http);
+	}
+
+	
+	
+	
+}

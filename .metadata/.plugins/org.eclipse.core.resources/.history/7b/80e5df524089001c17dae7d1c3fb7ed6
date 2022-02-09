@@ -1,0 +1,5 @@
+package com.springboot.app.gateway.security;
+
+public class SpringSecurityConfig {
+
+}
