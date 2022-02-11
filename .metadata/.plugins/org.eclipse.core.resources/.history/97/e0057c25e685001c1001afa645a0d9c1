@@ -1,8 +1,0 @@
-package com.springboot.app.oauth.clients;
-
-import org.springframework.cloud.openfeign.FeignClient;
-
-@FeignClient(name="servicio-usuarios")
-public class UsuarioFeignClient {
-
-}
