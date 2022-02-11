@@ -44,6 +44,7 @@ public class AuthenticationManagerJwt implements ReactiveAuthenticationManager{
 
 	//1.1  //EL MÉTODO COMPARA EL TOKEN QUE SE LE PASA POR PARÁMETRO A TRAVÉS DEL authentication, CON EL TOKEN DEL SERVICIO-CONFIG-SERVER EN GITHUB POR MEDIO DE LA KEY.
 	@Override
+	@SuppressWarnings("unchecked")
 	public Mono<Authentication> authenticate(Authentication authentication) {
 		// TODO Auto-generated method stub
 		return Mono.just(authentication.getCredentials().toString())
@@ -54,7 +55,7 @@ public class AuthenticationManagerJwt implements ReactiveAuthenticationManager{
 				})
 				.map(claims -> {
 					String username = claims.get("user_name", String.class);
-					@SuppressWarnings("unchecked")
+					
 					List<String> roles = claims.get("authorities", List.class);
 					Collection<GrantedAuthority>authorities = roles.stream().map(role -> new SimpleGrantedAuthority(role))
 							.collect(Collectors.toList());

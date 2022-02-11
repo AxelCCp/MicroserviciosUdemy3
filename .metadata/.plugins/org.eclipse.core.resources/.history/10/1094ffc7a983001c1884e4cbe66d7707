@@ -1,6 +1,0 @@
-package com.springboot.app.item;
-
-@Configuration
-public class CircuitBreakerConfig {
-
-}

@@ -1,5 +1,0 @@
-package com.springboot.app.usuarios.models.entity;
-
-public class Usuario {
-
-}

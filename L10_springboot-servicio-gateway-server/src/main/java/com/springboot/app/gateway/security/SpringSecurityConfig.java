@@ -1,8 +1,10 @@
 package com.springboot.app.gateway.security;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.http.HttpMethod;
 import org.springframework.security.config.annotation.web.reactive.EnableWebFluxSecurity;
+import org.springframework.security.config.web.server.SecurityWebFiltersOrder;
 import org.springframework.security.config.web.server.ServerHttpSecurity;
 import org.springframework.security.web.server.SecurityWebFilterChain;
 
@@ -19,6 +21,9 @@ import org.springframework.security.web.server.SecurityWebFilterChain;
 	//2.2.-RUTAS PARA ADMIN Y USER
 	//2.3.-TODAS LAS DEMÁS RUTAS QUE QUEDAN, QUE SON "PUT, DELETE, CREATE" SOLO PARA ADMIN.
 
+//CLASE115: SE CONFIGURA EL FILTRO DE AUTENTICACION DE LA CLASE JwtAuthenticationFilter.
+	//3.-REGISTRO DEL PINCHE FILTRO DE AUTHENTICACION.
+	//.addFilterAt(authenticationFilter, SecurityWebFiltersOrder.AUTHENTICATION) : SE LE PASA EL FILTRO INYECTADO Y EL ORDEN DEL FILTRO.
 
 @EnableWebFluxSecurity
 public class SpringSecurityConfig {
@@ -43,9 +48,14 @@ public class SpringSecurityConfig {
 				
 				.anyExchange().authenticated()
 				.and()
+				//3
+				.addFilterAt(authenticationFilter, SecurityWebFiltersOrder.AUTHENTICATION)
 				//1.1
 				.csrf().disable()
 				.build();
 	}
+	
+	@Autowired
+	private JwtAuthenticationFilter authenticationFilter;
 	
 }

@@ -1,2 +1,0 @@
-INSERT INTO `usuarios` (username, password, enabled, nombre, apellido, email) VALUES('RRRR','12345',1,'RRRR','IIII','RRRR@IIII.COM');
-INSERT INTO `usuarios` (username, password, enabled, nombre, apellido, email) VALUES('ZZZZ','12345',1,'ZZZZ','YYYY','ZZZZ@YYYY.COM');

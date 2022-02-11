@@ -43,7 +43,7 @@
 			<scope>test</scope>
 		</dependency>
 		
-		<!-- CLASE90: 3 DEPENDENCIAS AGREGADAS MANUALMENTE -->
+		<!-- CLASE90: 3 DEPENDENCIAS AGREGADAS MANUALMENTE. TIENE QUE SER 2.3.8.RELEASE, YA QUE LAS ÚLTIMAS NO TRAEN EL COMPONENTE Q GENERA EL TOKEN. -->
 		<dependency>
 			<groupId>org.springframework.security.oauth</groupId>
 			<artifactId>spring-security-oauth2</artifactId>

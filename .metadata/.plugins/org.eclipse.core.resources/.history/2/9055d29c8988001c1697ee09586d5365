@@ -1,6 +1,0 @@
-spring.application.name=servicio-items
-spring.profiles.active=desarrollo
-#spring.profiles.active=produccion
-spring.cloud.config.uri=http://localhost:8888
-#PARA USAR REFRESHSCOPE CON ACTUATOR. CON * SE REFRESCAN TODOS LOS COMPONENTES.
-management.endpoints.web.exposure.include=*

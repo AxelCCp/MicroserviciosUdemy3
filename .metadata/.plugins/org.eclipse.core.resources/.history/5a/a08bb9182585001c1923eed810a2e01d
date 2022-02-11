@@ -1,2 +1,0 @@
-spring.application.name=servicio-usuarios
-server.port=${PORT:0}

@@ -11,11 +11,13 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 
 //CLASE93
+//1.-SE REGISTRA EL USERDETAILSSERVICE
+//2.-SE REGISTRA EL AUTHENTICATION MANAGER COMO UN COMPONENTE DE SPRING
 
 @Configuration
 public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
 	
-	
+	//1
 	@Override
 	@Autowired
 	protected void configure(AuthenticationManagerBuilder auth) throws Exception {
@@ -27,7 +29,7 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
 		return new BCryptPasswordEncoder();
 	}
 	
-	
+	//2
 	@Override
 	@Bean
 	protected AuthenticationManager authenticationManager() throws Exception {

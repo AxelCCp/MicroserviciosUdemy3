@@ -1,7 +1,0 @@
-package com.springboot.app.usuarios.models.entity;
-
-import java.io.Serializable;
-
-public class Role implements Serializable {
-
-}
