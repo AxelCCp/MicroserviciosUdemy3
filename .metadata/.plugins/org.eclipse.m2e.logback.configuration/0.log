@@ -10930,3 +10930,293 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.springboo
 2022-02-11 14:58:50,969 [Worker-49: Launching M11_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
 2022-02-11 14:58:59,548 [Worker-46: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZ_springboot-servicio-commons: com.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /ZZ_springboot-servicio-commons/target/classes
 2022-02-11 14:59:02,599 [Worker-43: Launching M11_springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZ_springboot-servicio-commons: com.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /ZZ_springboot-servicio-commons/target/classes
+2022-02-11 14:59:02,696 [Worker-43: Launching M11_springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZ_springboot-servicio-commons: com.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /ZZ_springboot-servicio-commons/target/classes
+2022-02-11 14:59:02,789 [Worker-43: Launching M11_springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZ_springboot-servicio-commons: com.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /ZZ_springboot-servicio-commons/target/classes
+2022-02-11 15:52:47,359 [Worker-67: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.config:springboot-servicio-config-server:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-config-server\pom.xml.
+2022-02-11 15:52:47,903 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:52:47,903 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:52:47,904 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:52:47,910 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-11 15:52:47,911 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:52:47,911 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:52:47,912 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-config-server\src\test\resources
+2022-02-11 15:52:49,273 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:52:49,274 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:52:49,274 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:52:49,275 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-11 15:52:49,275 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:52:49,275 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:52:49,275 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-config-server\src\test\resources
+2022-02-11 15:53:14,684 [Worker-67: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.eureka:springboot-servicio-eureka-server:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-eureka-server\pom.xml.
+2022-02-11 15:53:15,038 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:53:15,038 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:53:15,039 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:53:15,040 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-11 15:53:15,041 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:53:15,041 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:53:15,041 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-eureka-server\src\test\resources
+2022-02-11 15:53:16,371 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:53:16,372 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:53:16,373 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:53:16,374 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-11 15:53:16,374 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:53:16,374 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:53:16,375 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-eureka-server\src\test\resources
+2022-02-11 15:53:40,110 [Worker-69: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.gateway:springboot-servicio-gateway-server:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-gateway-server\pom.xml.
+2022-02-11 15:53:40,512 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:53:40,512 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:53:40,512 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-11 15:53:40,527 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:53:40,530 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:53:40,530 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:53:40,530 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-gateway-server\src\test\resources
+2022-02-11 15:53:41,988 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:53:41,989 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:53:41,989 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-11 15:53:41,992 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:53:41,994 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:53:41,995 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:53:41,995 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-gateway-server\src\test\resources
+2022-02-11 15:53:51,032 [Worker-47: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZ_springboot-servicio-commons: com.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /ZZ_springboot-servicio-commons/target/classes
+2022-02-11 15:54:09,801 [Worker-67: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.item:springboot-servicio-item:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-item\pom.xml.
+2022-02-11 15:54:09,930 [Worker-67: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZ_springboot-servicio-commons: com.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /ZZ_springboot-servicio-commons/target/classes
+2022-02-11 15:54:10,307 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:54:10,307 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:54:10,307 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-11 15:54:10,308 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:54:10,310 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:54:10,311 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:54:10,311 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-item\src\test\resources
+2022-02-11 15:54:11,711 [Worker-67: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZ_springboot-servicio-commons: com.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /ZZ_springboot-servicio-commons/target/classes
+2022-02-11 15:54:11,715 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:54:11,716 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:54:11,716 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-11 15:54:11,718 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:54:11,725 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:54:11,725 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:54:11,725 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-item\src\test\resources
+2022-02-11 15:54:20,468 [Worker-68: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-11 15:54:37,160 [Worker-47: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.oauth:springboot-servicio-oauth:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-oauth\pom.xml.
+2022-02-11 15:54:37,270 [Worker-47: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-11 15:54:37,512 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:54:37,512 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:54:37,513 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:54:37,514 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:54:37,516 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:54:37,516 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:54:37,516 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-oauth\src\test\resources
+2022-02-11 15:54:38,878 [Worker-66: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-11 15:54:38,881 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:54:38,882 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:54:38,882 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:54:38,883 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:54:38,885 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:54:38,885 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:54:38,885 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-oauth\src\test\resources
+2022-02-11 15:55:05,125 [Worker-69: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.productos:springboot-servicio-productos:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-productos\pom.xml.
+2022-02-11 15:55:05,246 [Worker-69: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZ_springboot-servicio-commons: com.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /ZZ_springboot-servicio-commons/target/classes
+2022-02-11 15:55:05,485 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:55:05,485 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:55:05,485 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:55:05,498 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-11 15:55:05,502 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:55:05,502 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:55:05,502 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-productos\src\test\resources
+2022-02-11 15:55:06,850 [Worker-68: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZ_springboot-servicio-commons: com.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /ZZ_springboot-servicio-commons/target/classes
+2022-02-11 15:55:06,854 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:55:06,854 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:55:06,854 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:55:06,856 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-11 15:55:06,858 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:55:06,859 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:55:06,859 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-productos\src\test\resources
+2022-02-11 15:55:10,433 [Worker-69: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-11 15:55:28,767 [Worker-68: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.usuarios:springboot-servicio-usuarios:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\pom.xml.
+2022-02-11 15:55:28,881 [Worker-68: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-11 15:55:29,100 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:55:29,100 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:55:29,100 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:55:29,101 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:55:29,103 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:55:29,103 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:55:29,103 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\src\test\resources
+2022-02-11 15:55:30,458 [Worker-47: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-11 15:55:30,460 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:55:30,460 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:55:30,461 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:55:30,462 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:55:30,464 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:55:30,464 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:55:30,464 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\src\test\resources
+2022-02-11 15:55:55,114 [Worker-68: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.zuul:springboot-servicio-zuul-server:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-zuul-server\pom.xml.
+2022-02-11 15:55:55,624 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:55:55,625 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:55:55,633 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:55:55,636 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:55:55,636 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-zuul-server\src\test\resources
+2022-02-11 15:55:57,023 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:55:57,025 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:55:57,026 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:55:57,028 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:55:57,028 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-zuul-server\src\test\resources
+2022-02-11 15:58:30,201 [Worker-66: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-11 15:59:23,277 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-11 15:59:23,399 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.usuarios:springboot-servicio-usuarios:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\pom.xml.
+2022-02-11 15:59:24,552 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.3.1/postgresql-42.3.1.pom
+2022-02-11 15:59:24,684 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.3.1/postgresql-42.3.1.pom
+2022-02-11 15:59:24,700 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-11 15:59:24,755 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.3.1/postgresql-42.3.1.jar
+2022-02-11 15:59:25,071 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.3.1/postgresql-42.3.1.jar
+2022-02-11 15:59:25,274 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /N12_springboot-servicio-usuarios/src/main/java
+2022-02-11 15:59:25,274 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /N12_springboot-servicio-usuarios/src/main/resources
+2022-02-11 15:59:25,275 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /N12_springboot-servicio-usuarios/src/main/resources
+2022-02-11 15:59:25,275 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /N12_springboot-servicio-usuarios/src/test/java
+2022-02-11 15:59:26,215 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-02-11 15:59:26,391 [Worker-66: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-11 15:59:26,471 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:59:26,472 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:59:26,472 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:59:26,473 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 15:59:26,475 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:59:26,475 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:59:26,475 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\src\test\resources
+2022-02-11 15:59:26,617 [Worker-66: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.3.1/postgresql-42.3.1-sources.jar
+2022-02-11 15:59:26,897 [Worker-66: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.3.1/postgresql-42.3.1-sources.jar
+2022-02-11 15:59:26,921 [Worker-66: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.postgresql:postgresql:42.3.1
+2022-02-11 15:59:27,549 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:59:27,549 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:59:27,550 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-11 15:59:27,550 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-11 15:59:27,551 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 15:59:27,551 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 15:59:27,551 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\src\test\resources
+2022-02-11 18:14:04,948 [Worker-75: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.usuarios:springboot-servicio-usuarios:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\pom.xml.
+2022-02-11 18:14:05,145 [Worker-75: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-11 18:14:05,557 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 18:14:05,557 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 18:14:05,557 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-11 18:14:05,557 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-11 18:14:05,558 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 18:14:05,559 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 18:14:05,559 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\src\test\resources
+2022-02-11 18:14:44,601 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-11 18:14:48,213 [Worker-8: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-11 18:17:45,952 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 18:17:45,953 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 18:17:45,963 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 18:17:45,992 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 18:17:46,002 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 18:17:46,002 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 18:17:46,002 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\src\test\resources
+2022-02-11 18:20:37,595 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.usuarios:springboot-servicio-usuarios:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\pom.xml.
+2022-02-11 18:20:37,891 [Worker-12: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-11 18:20:38,441 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 18:20:38,442 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 18:20:38,446 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-11 18:20:38,446 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-11 18:20:38,448 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 18:20:38,448 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 18:20:38,449 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\src\test\resources
+2022-02-11 18:20:40,597 [Worker-20: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-11 18:20:40,616 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 18:20:40,617 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 18:20:40,620 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 18:20:40,632 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-11 18:20:40,637 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-11 18:20:40,638 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-11 18:20:40,638 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\src\test\resources
+2022-02-12 08:59:16,402 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-12 08:59:19,514 [Worker-7: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 09:00:40,171 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-12 09:00:40,681 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.usuarios:springboot-servicio-usuarios:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\pom.xml.
+2022-02-12 09:00:40,877 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 09:00:41,517 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /N12_springboot-servicio-usuarios/src/main/java
+2022-02-12 09:00:41,518 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /N12_springboot-servicio-usuarios/src/main/resources
+2022-02-12 09:00:41,518 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /N12_springboot-servicio-usuarios/src/main/resources
+2022-02-12 09:00:41,519 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /N12_springboot-servicio-usuarios/src/test/java
+2022-02-12 09:00:42,089 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-02-12 09:00:42,808 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 09:00:42,836 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 09:00:42,837 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 09:00:42,839 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 09:00:42,852 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 09:00:42,856 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 09:00:42,857 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 09:00:42,857 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\src\test\resources
+2022-02-12 09:01:31,433 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.usuarios:springboot-servicio-usuarios:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\pom.xml.
+2022-02-12 09:01:31,612 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 09:01:31,866 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 09:01:31,866 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 09:01:31,867 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 09:01:31,868 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 09:01:31,869 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 09:01:31,869 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 09:01:31,869 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\src\test\resources
+2022-02-12 09:02:59,983 [Worker-12: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZ_springboot-servicio-commons: com.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /ZZ_springboot-servicio-commons/target/classes
+2022-02-12 09:03:10,614 [Worker-12: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 09:03:13,381 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 09:03:13,382 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 09:03:13,384 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 09:03:13,384 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 09:03:13,390 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 09:03:13,390 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 09:03:13,390 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\src\test\resources
+2022-02-12 09:04:13,890 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 09:04:13,891 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 09:04:13,891 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 09:04:13,891 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 09:04:13,894 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 09:04:13,894 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 09:04:13,894 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-usuarios\src\test\resources
+2022-02-12 09:06:18,330 [Worker-7: Launching N12_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 09:06:18,436 [Worker-7: Launching N12_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 09:06:18,542 [Worker-7: Launching N12_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 09:17:47,559 [Worker-26: Launching N12_springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 09:17:47,646 [Worker-26: Launching N12_springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 09:17:47,731 [Worker-26: Launching N12_springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 09:17:47,820 [Worker-26: Launching N12_springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 10:21:42,304 [Worker-45: Launching N12_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 10:21:42,410 [Worker-45: Launching N12_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 10:21:42,509 [Worker-45: Launching N12_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 10:25:12,392 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 10:25:12,392 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 10:25:12,393 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 10:25:12,399 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 10:25:12,400 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 10:25:12,400 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 10:25:12,400 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-config-server\src\test\resources
+2022-02-12 10:25:42,856 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 10:25:42,857 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 10:25:42,857 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 10:25:42,862 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 10:25:42,864 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 10:25:42,864 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 10:25:42,864 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-config-server\src\test\resources
+2022-02-12 10:25:51,634 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 10:25:51,635 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 10:25:51,636 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 10:25:51,639 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 10:25:51,640 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 10:25:51,641 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 10:25:51,641 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-config-server\src\test\resources
+2022-02-12 10:26:39,162 [Worker-47: Launching N12_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 10:26:39,275 [Worker-47: Launching N12_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 10:26:39,385 [Worker-47: Launching N12_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 10:28:22,978 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 10:28:22,978 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 10:28:22,978 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 10:28:22,981 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 10:28:22,982 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 10:28:22,982 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 10:28:22,982 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-config-server\src\test\resources
+2022-02-12 10:28:54,454 [Worker-51: Launching N12_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 10:28:54,550 [Worker-51: Launching N12_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 10:28:54,645 [Worker-51: Launching N12_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
+2022-02-12 10:30:06,937 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 10:30:06,938 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 10:30:06,939 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 10:30:06,940 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 10:30:06,942 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 10:30:06,942 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 10:30:06,942 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy3\N12_springboot-servicio-config-server\src\test\resources
+2022-02-12 10:34:23,955 [Worker-57: Launching N12_springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ZZA_springboot-servicio-usuarios-commons: com.springboot.app.usuarios-commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /ZZA_springboot-servicio-usuarios-commons/target/classes
