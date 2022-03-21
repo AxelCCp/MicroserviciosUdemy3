@@ -1,8 +1,0 @@
-package com.springboot.app.gateway.security;
-
-import org.springframework.stereotype.Component;
-
-@Component
-public class AuthenticationManagerJwt {
-
-}
